@@ -4,6 +4,14 @@
 
 ---
 
+"Scientists may have finally proved that “empty” space isn’t really empty." ScienceDaily. ScienceDaily, 18 August 2026.
+
+
+https://www.sciencedaily.com/releases/2026/08/260815065007.htm
+
+
+---
+
 https://github.com/ericrenone/SPD
 
 https://github.com/ericrenone/HEISENBERG
